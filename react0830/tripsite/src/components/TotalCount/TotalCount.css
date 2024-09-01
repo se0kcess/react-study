@@ -1,0 +1,14 @@
+.count {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem 0;
+}
+.count > * {
+  border: 1px solid yellow;
+  padding: 0.5rem;
+}
+.count span {
+  background-color: whitesmoke;
+  color: blueviolet;
+  padding: 0.5rem;
+}
