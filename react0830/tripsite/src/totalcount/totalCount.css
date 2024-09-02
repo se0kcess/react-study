@@ -1,0 +1,15 @@
+.count {
+	display: flex;
+	justify-content: flex-end;
+	padding: 1rem 0;
+	gap: 0.5rem;
+	border-bottom: 1px solid #666;
+}
+.count > * {
+	padding: 0.5rem;
+}
+.count span {
+	background-color: whitesmoke;
+	color: blueviolet;
+	border-radius: 10px;
+}

@@ -1,0 +1,18 @@
+.header {
+	background-color: #000000;
+	padding: 50px 0 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.header i {
+	color: #5e60ce;
+	transform: rotate(-45deg) scale(0.75);
+}
+.header strong:nth-of-type(1) {
+	color: #4ea8de;
+}
+.header strong:nth-of-type(2) {
+	color: #1e6f9f;
+}
